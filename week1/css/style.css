@@ -1,0 +1,62 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.section{
+    border: solid 2px rgb(34, 34, 16);
+    background-color: rgb(212, 202, 69);
+    margin: 10px;
+}
+
+.section h1, h2{
+    background-color: rgb(31, 175, 201);
+    color: white;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.section img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+.content{
+    margin: 0 20px 20px 20px;
+}
+
+.btn{
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn-contact{
+    background-color:rgb(207, 76, 120);
+    color: white;
+}
+
+.btn-submit{
+    background-color:green;
+    color: white;
+    width: 300px;  
+    border-radius: 50px;  
+}
+
+.input-form{
+    width: 300px;
+}
+
+.input-box input, select, textarea{
+    float: right;
+}
+
+.footer{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
